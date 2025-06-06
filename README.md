@@ -4,6 +4,6 @@ The implementation relies on RTOS events for task synchronization, ensuring that
 Designed for hygiene and resource efficiency, the system automates water dispensing, reducing wastage and enhancing user convenience. By combining real-time control with effective RTOS utilization, the project demonstrates practical expertise in embedded systems and RTOS-based applications.  
   
 **Other contributors to the project:**
-- E Sujaya (esujaya108@gmail.com)
-- Amish Kulkarni (amishkulkarni03@gmail.com)
-- Ujwal Shanbhag (shanbhagujwal@gmail.com)
+- [E Sujaya](https://github.com/Sujaya-E)
+- Amish Kulkarni
+- Ujwal Shanbhag
